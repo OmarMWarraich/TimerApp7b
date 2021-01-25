@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "StopWatch App",
+  "name": "Omar StopWatch App",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "Timer.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "Timer192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "Timer512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
